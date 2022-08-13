@@ -357,6 +357,7 @@
 "Assets/Scripts/PlayerHealth.cs"
 "Assets/Scripts/PlayerHealthBar.cs"
 "Assets/Scripts/PlayerPickUpObject.cs"
+"Assets/Scripts/PowerUpStats.cs"
 "Assets/Scripts/WeaponStats.cs"
 -langversion:9.0
 
