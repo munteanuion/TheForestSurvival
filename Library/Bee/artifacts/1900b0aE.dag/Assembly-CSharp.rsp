@@ -348,6 +348,8 @@
 "Assets/Scripts/CameraMoveTarget.cs"
 "Assets/Scripts/CaracterMove3D.cs"
 "Assets/Scripts/EnemyFollow.cs"
+"Assets/Scripts/EnemyHealth.cs"
+"Assets/Scripts/EnemyHealthBar.cs"
 "Assets/Scripts/EnemyStats.cs"
 "Assets/Scripts/ParameterEnemyStats.cs"
 "Assets/Scripts/PickUpObject.cs"

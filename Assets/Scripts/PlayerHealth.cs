@@ -30,7 +30,7 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    private void ChangeHealth(float value)
+    public void ChangeHealth(float value)
     {
         _hp += (int)value;
         if (_hp > _maxHp)
