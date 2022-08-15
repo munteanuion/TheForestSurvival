@@ -353,10 +353,11 @@
 "Assets/Scripts/Enemy/ParameterEnemyStats.cs"
 "Assets/Scripts/PickUpObject.cs"
 "Assets/Scripts/Player/CaracterMove3D.cs"
+"Assets/Scripts/Player/Inventory/Inventory.cs"
+"Assets/Scripts/Player/Inventory/PlayerPickUpObject.cs"
 "Assets/Scripts/Player/PlayerAttack.cs"
 "Assets/Scripts/Player/PlayerHealth.cs"
 "Assets/Scripts/Player/PlayerHealthBar.cs"
-"Assets/Scripts/Player/PlayerPickUpObject.cs"
 "Assets/Scripts/PowerUpStats.cs"
 "Assets/Scripts/WeaponStats.cs"
 -langversion:9.0
